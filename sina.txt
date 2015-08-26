@@ -3,3 +3,6 @@ my name is sina
 modified from sina;
 
 modified from qq;
+
+
+qq delete some words;
