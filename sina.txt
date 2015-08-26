@@ -8,3 +8,6 @@ modified from qq;
 
 qq delete some words;
 delete some from sina;
+
+
+config
